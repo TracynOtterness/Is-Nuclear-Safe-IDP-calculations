@@ -16,3 +16,6 @@ nuclear_calculations_land.py
 # Unused calculations / figures
 nuclear_calculations_emissions.py
 nuclear_calculations_waste.py
+
+# Art used by permission
+https://www.iconarchive.com/show/outline-icons-by-iconsmind/Coffin-icon.html#google_vignette
